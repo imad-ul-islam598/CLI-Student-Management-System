@@ -1,0 +1,20 @@
+{
+  "name": "imk-student-management-system",
+  "version": "1.0.0",
+  "description": "This is a CLI based Student Management System Project. This project is developed by Imad Ul Islam. Run This Command on Your CMD For Testing 'npx imk-student-management-system'",
+  "main": "main.js",
+  "type":"module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IMAD UL ISLAM",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+  
+}
